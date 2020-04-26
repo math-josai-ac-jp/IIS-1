@@ -1,0 +1,26 @@
+theme: minimal-mistakes-jekyll
+
+language: ja
+
+# Site Settings
+locale                   : "ja-JP"
+title                    : "情報システム論I サポートページ"
+title_separator          : "-"
+subtitle                 : # site tagline that appears below site title in masthead
+name                     : "Your Name"
+description              : "An amazing website."
+url                      : https://math-josai-ac-jp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # /IIS-1 # the subpath of your site, e.g. "/blog"
+# breadcrumbs            : false # true, false (default)
+
+# Site Author
+author:
+  name             : "大木 哲史"
+  avatar           : "/assets/author.jpg"
+  bio              : "城西大学理学部数学科非常勤講師．本講義の内容と本務先の業務および研究内容に直接の関係はありません"
+  location         : "オンライン"
+  email            :
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: mailto:your.name@email.com
