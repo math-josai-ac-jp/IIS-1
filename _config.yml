@@ -4,13 +4,10 @@ language: ja
 
 # Site Settings
 locale                   : "ja-JP"
-title                    : "情報システム論I サポートページ"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+title                    : "「城西大学理学部数学科 情報システム論I」サポートページ"
+description              : "「城西大学理学部数学科 情報システム論I」サポートページ"
 url                      : https://math-josai-ac-jp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # /IIS-1 # the subpath of your site, e.g. "/blog"
+baseurl                  : /IIS-1 # the subpath of your site, e.g. "/blog"
 # breadcrumbs            : false # true, false (default)
 
 # Site Author
