@@ -8,6 +8,12 @@ url                      : https://math-josai-ac-jp.github.io # the base hostnam
 baseurl                  : /IIS-1 # the subpath of your site, e.g. "/blog"
 # breadcrumbs            : false # true, false (default)
 
+markdown: kramdown
+remote_theme: "mmistakes/minimal-mistakes@4.19.1"
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+
 # Site Author
 author:
   name             : "大木 哲史"
@@ -19,8 +25,3 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
-
-remote_theme: "mmistakes/minimal-mistakes@4.19.1"
-plugins:
-  - jekyll-feed
-  - jekyll-include-cache
