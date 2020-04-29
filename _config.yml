@@ -1,7 +1,6 @@
 language: ja
 
 # Site Settings
-locale                   : "ja-JP"
 title                    : "「城西大学理学部数学科 情報システム論I」サポートページ"
 description              : "「城西大学理学部数学科 情報システム論I」サポートページ"
 url                      : https://math-josai-ac-jp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
